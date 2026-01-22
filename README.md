@@ -10,18 +10,18 @@ The project was built as a pet-project to explore:
 
 ---
 
-## ✨ Features
+## ✨ Features (Implemented)
 
 - ➕ Add and remove habits
-- ⏰ Individual reminders for each habit
+- ⏰ Per-habit daily reminders (Cloudflare Cron)
 - 📊 Habit statistics:
   - current streak
   - best streak
   - missed days
 - 🌍 Multi-language support (RU / EN)
-- 🌎 Timezone support
-- 🔔 Scheduled reminders via cron
-- ⚙️ Fully serverless
+- 🌎 Timezone-aware reminders
+- 🔔 Scheduled background jobs
+- ⚙️ Fully serverless architecture
 
 ---
 
