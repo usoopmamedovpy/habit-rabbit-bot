@@ -1,4 +1,5 @@
-# 🐰 Habit Rabbit — Telegram Habit Tracker Bot
+# 🐰 Habit Rabbit — Telegram bot for daily habit tracking with reminders, streaks and statistics, built on Cloudflare Workers.
+
 
 Habit Rabbit is a Telegram bot for daily habit tracking with reminders, streaks and statistics.
 
