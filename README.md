@@ -23,6 +23,62 @@ The project was built as a pet-project to explore:
 - 🌎 Timezone-aware reminders
 - 🔔 Scheduled background jobs
 - ⚙️ Fully serverless architecture
+- ## 📸 Screenshots
+
+### Language selection
+
+Choose your preferred language when starting the bot.
+
+![Language selection](screenshots/старт%20на%20пол.png)
+
+---
+
+### First habit setup
+
+Add your first habit and start tracking immediately.
+
+![First habit name](screenshots/название%20первого%20прив.%20на%20пол.png)
+
+---
+
+### Quick start instructions
+
+Short and clear instructions after setup.
+
+![Instructions](screenshots/инструкция.png)
+
+---
+
+### Habit statistics
+
+Track your progress with current streak, best streak and missed days.
+
+![Statistics](screenshots/Статистика%20на%20пол.png)
+
+---
+
+### Settings & habit management
+
+Manage habits, reminders and language from one place.
+
+![Settings](screenshots/Настройки%20на%20пол.png)
+
+---
+
+### Timezone configuration
+
+Timezone-aware reminders — notifications arrive at exactly the time you choose.
+
+![Timezone](screenshots/час%20пояс%20на%20пол(норм).png)
+
+---
+
+### Habit reminders
+
+Daily reminders for each habit using Cloudflare Cron triggers.
+
+![Reminders](screenshots/напоминания%20на%20пол.png)
+
 
 ---
 
